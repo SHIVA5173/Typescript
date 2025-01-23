@@ -11,3 +11,5 @@ console.log(Scores);
 
 let isUser: true | false;
 isUser = true;
+// isUser = "Shiva WebDev"; //invalid
+// isUser = 4882; //invalid

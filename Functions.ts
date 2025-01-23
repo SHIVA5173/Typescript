@@ -7,7 +7,7 @@ function User(
   return `${userId} ${userName} ${userEmail} ${userSalary}`;
 }
 
-// console.log(User(5173, "Chandra Mohan", "chandra@gmail.com", "$2563K"));
+console.log(User(5173, "Chandra Mohan", "chandra@gmail.com", "$2563K"));
 
 //  Return Annotations:
 
@@ -22,7 +22,7 @@ const userValidation = (Email: string, Password: string): string => {
   } `;
 };
 
-// console.log(userValidation("radha@gmail.com", "radha#6174"));
+console.log(userValidation("radha@gmail.com", "radha#6174"));
 
 // void Annotations
 
